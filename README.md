@@ -8,7 +8,8 @@ Note that this library is not compatible with the Agda standard library at
 https://github.com/agda/agda-stdlib.
 
 -------------------------------------------------------------------------------
-## Git commands to keep fork up-to-date with upstream repo
+
+**Git commands** for keeping fork up-to-date with upstream repo
 
     git remote add upstream git@github.com:UlfNorell/agda-prelude.git
     git fetch upstream
